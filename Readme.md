@@ -3,6 +3,7 @@
 Predicts freight `posted_rate` from load characteristics (route, distance, equipment,
 weight, date, and where available, live market signals).
 
+
 ## Setup
 
 ```bash
@@ -47,4 +48,4 @@ December chart.
 | `features.py` | Shared feature engineering (train/inference use identical transforms) |
 | `train.py` | Trains both models, prints holdout metrics, saves `model.joblib` / `model_reduced.joblib` |
 | `predict.py` | Generates `validation_predictions.csv`, `december_predictions.csv`, `december_chart.png` |
-| `build_report.js` | Generates the DOCX report |
+| `build_report.js` | Generates the DOCX report |samaple line
