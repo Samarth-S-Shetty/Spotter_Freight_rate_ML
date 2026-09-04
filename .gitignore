@@ -1,0 +1,7 @@
+data/
+*.png
+*.jpg
+page-*.jpg
+Spotter_ML_Assessment_Report.pdf
+__pycache__/
+*.joblib

@@ -1,0 +1,12 @@
+{
+  "holdout_mae": 160.0542728924153,
+  "holdout_mape": 0.07114928921825009,
+  "holdout_r2": 0.8341878951606088,
+  "baseline_mae": 193.42208169259777,
+  "baseline_mape": 0.09884679659069089,
+  "reduced_model_mae": 169.44900426442604,
+  "reduced_model_mape": 0.07290785538262992,
+  "split_date": "2025-09-15",
+  "train_rows": 40706,
+  "holdout_rows": 7294
+}
